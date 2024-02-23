@@ -18,7 +18,7 @@ export default function Home() {
           <CardDescription>This is my home page</CardDescription>
         </CardHeader>
         <CardContent>
-          <span>Hello, welcome to my website!</span>
+          <span>Hello, welcome to my website! I have new changes!</span>
         </CardContent>
         <CardFooter>
           <div className="flex w-full justify-end">
